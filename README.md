@@ -53,6 +53,8 @@ Open Postman and send a POST request to payments/make_payment/. In the request b
 }
 
 ```
+Note: You can obtain test tokens from Stripe's testing website. For example, the token tok_visa represents a successful payment.
+
 Use the Stripe test tokens for different scenarios. For example:
 
 Test Token for a Successful Payment: tok_visa
